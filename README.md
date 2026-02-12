@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hey! I am Ganavi👋:
 ⚙️ Interested in Embedded Systems and IoT, with a focus on hardware–software integration<br><br>📊 Exploring Machine Learning and Data Science to build intelligent, data-driven solutions<br><br>🚀 Committed to developing practical, efficient, and real-world engineering systems<br><br>📬Reach out to me @ganavi935@gmail.com
 
 
